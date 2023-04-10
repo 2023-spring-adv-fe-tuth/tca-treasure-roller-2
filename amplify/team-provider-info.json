@@ -10,6 +10,11 @@
       "StackName": "amplify-tcatreasureroller2-dev-191357",
       "StackId": "arn:aws:cloudformation:us-east-2:230395760767:stack/amplify-tcatreasureroller2-dev-191357/95c54c80-d734-11ed-8fcd-060a6736219b",
       "AmplifyAppId": "d3ea0ume0e0di5"
+    },
+    "categories": {
+      "api": {
+        "tcatreasureroller2": {}
+      }
     }
   }
 }
