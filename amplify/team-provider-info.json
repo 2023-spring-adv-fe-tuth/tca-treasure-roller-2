@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tcatreasureroller2-dev-191357-authRole",
+      "UnauthRoleArn": "arn:aws:iam::230395760767:role/amplify-tcatreasureroller2-dev-191357-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::230395760767:role/amplify-tcatreasureroller2-dev-191357-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-tcatreasureroller2-dev-191357-deployment",
+      "UnauthRoleName": "amplify-tcatreasureroller2-dev-191357-unauthRole",
+      "StackName": "amplify-tcatreasureroller2-dev-191357",
+      "StackId": "arn:aws:cloudformation:us-east-2:230395760767:stack/amplify-tcatreasureroller2-dev-191357/95c54c80-d734-11ed-8fcd-060a6736219b",
+      "AmplifyAppId": "d3ea0ume0e0di5"
+    }
+  }
+}
